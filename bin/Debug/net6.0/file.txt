@@ -1,6 +1,0 @@
-2022-09-09 18:37:23.3383|INFO|Program|Este es un log de informacion de prueba
-2022-09-09 18:37:23.3742|DEBUG|Program|Este es otro log de prueba
-2022-09-09 18:38:29.7629|INFO|Program|Este es un log de informacion de prueba
-2022-09-09 18:38:29.7938|DEBUG|Program|Este es otro log de prueba
-2022-09-09 18:39:03.5728|INFO|Program|Este es un log de informacion de prueba
-2022-09-09 18:39:03.6199|DEBUG|Program|Este es otro log de prueba

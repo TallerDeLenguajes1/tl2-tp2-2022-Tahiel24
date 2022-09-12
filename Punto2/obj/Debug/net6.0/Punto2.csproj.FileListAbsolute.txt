@@ -1,0 +1,15 @@
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\bin\Debug\net6.0\Punto2.exe
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\bin\Debug\net6.0\Punto2.deps.json
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\bin\Debug\net6.0\Punto2.runtimeconfig.json
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\bin\Debug\net6.0\Punto2.dll
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\bin\Debug\net6.0\Punto2.pdb
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.csproj.AssemblyReference.cache
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfoInputs.cache
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfo.cs
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.csproj.CoreCompileInputs.cache
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.dll
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\refint\Punto2.dll
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.pdb
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\Punto2.genruntimeconfig.cache
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto2\obj\Debug\net6.0\ref\Punto2.dll
