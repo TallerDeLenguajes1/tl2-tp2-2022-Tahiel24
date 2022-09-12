@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj": {}
+    "c:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj": {}
   },
   "projects": {
-    "C:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj": {
+    "c:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj",
+        "projectUniqueName": "c:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj",
         "projectName": "Punto2",
-        "projectPath": "C:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj",
+        "projectPath": "c:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\Punto2.csproj",
         "packagesPath": "C:\\Users\\Tahiel\\.nuget\\packages\\",
-        "outputPath": "C:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\obj\\",
+        "outputPath": "c:\\TALLER 2\\tl2-tp2-2022-Tahiel24\\Punto2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tahiel\\AppData\\Roaming\\NuGet\\NuGet.Config"

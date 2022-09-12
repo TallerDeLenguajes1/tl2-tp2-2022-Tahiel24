@@ -13,3 +13,6 @@ C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto3\obj\Debug\net6.0\refint\Punto3.dll
 C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto3\obj\Debug\net6.0\Punto3.pdb
 C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto3\obj\Debug\net6.0\Punto3.genruntimeconfig.cache
 C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto3\obj\Debug\net6.0\ref\Punto3.dll
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto3\bin\Debug\net6.0\nlog.config
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto3\bin\Debug\net6.0\NLog.dll
+C:\TALLER 2\tl2-tp2-2022-Tahiel24\Punto3\obj\Debug\net6.0\Punto3.csproj.CopyComplete
